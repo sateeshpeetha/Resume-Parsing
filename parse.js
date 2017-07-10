@@ -1,4 +1,7 @@
 
+var app = angular.module('Rparse', []);
+
+
 function headerCtl($scope, $element, $attrs) {
   //add code later
    
