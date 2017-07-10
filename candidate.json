@@ -1,6 +1,18 @@
 
 {
      "Name"  :   "Sateesh Peetha"
+     "Contact" : { "Email" : "sateesh.peetha@protonmail.com" , "Mobile" : "+91 9493303881" , "Skype" : "sateesh.peetha" }
   ,   "Title" :   "IT Professional with 8 plus years into Software Development, Testing, and Designing IT Systems and Web Applications" 
-  , "Summary" : "A systematic, organised, hardworking and dedicated team player with an analytical bent of mind with good academic credentials. I am an ambitious professional with experience of 10+ years in Application Development and Support, Design & Analysis, Technical Analysis, Data Analysis, Quality Management, Technology Management and Team Management. Multi-functional expert, technically inclined and highly empowered IT professional. Expertise in all phases of Application Development Life Cycle with concentration on Requirements Analysis & Development, Design Analysis, Development Planning, Tools and Technologies selection, Code/Design Reviews, SQA, Unit Testing, User Interface Design and Delivery. --Good ability to utilize, extract, transform and load (ETL) tools to maintain, design, develop, test, implement and document data warehouse solutions. Hands on experience in using PowerPivot etc. Why should you hire me? I have listed few of the qualities with examples below. 1. Resourceful I have turned simple blogging platform into full fledged business application. Check the prototype here --> dir.dingg.org. As you can see, I have used what is available to deliver business requirements. Doesn't mean I can't demand when required but cooperate when needed. 2. Adaptability, Fast and Self learner dir.dingg.org is a Business Directory developed using google blogging platform. I have not worked previously and don't know much of the technologies behind the mentioned application. Still I am able to learn, adapt to the environment and delivery product. 3. Application of knowledge It doesn't matter whether you read 1000 or more books. Solving problems with what we know is more important. For example, I used to solve the Integration applications easily with limited knowledge but my hostel mate was not able to solve when he is expert in it. 4. Comprehend Business and Client requirements easily and suggest. I played a Business Analyst role as well when working on dir.dingg.org"
+  , "Summary" : { "p1" : "A systematic, organised, hardworking and dedicated team player with an analytical bent of mind with good academic credentials. I am an ambitious professional with experience of 8+ years in Application Development and Support, Design & Analysis, Technical Analysis, Data Analysis, Quality Management, Technology Management and Team Management."
+                 , "p2" : "Multi-functional expert, technically inclined and highly empowered IT professional. Expertise in all phases of Application Development Life Cycle with concentration on Requirements Analysis & Development, Design Analysis, Development Planning, Tools and Technologies selection, Code/Design Reviews, SQA, Unit Testing, User Interface Design and Delivery."
+                 , "p3" : "Good ability to utilize, extract, transform and load (ETL) tools to maintain, design, develop, test, implement and document data warehouse solutions. Hands on experience in using PowerPivot and Tableau."
+                }
+  
+  , "Education"  : {  }
+  , "Experience" : {  }
+  , "Projects"   : {  }
+
+
+
+
 }
