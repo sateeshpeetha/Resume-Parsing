@@ -8,7 +8,10 @@
                  , "p3" : "Good ability to utilize, extract, transform and load (ETL) tools to maintain, design, develop, test, implement and document data warehouse solutions. Hands on experience in using PowerPivot and Tableau."
                 }
   
-  , "Education"  : {  }
+  , "Education"  : {
+   "Bachelors of Technology in Computer Science" : { "from" : "2002" , "to" : "2005" , "grade" : "78%" , "university" : "V.R.S.E.C, Nagarjuna University" , "Place" : "Vijayawada, AP, India" } 
+ , "Diploma in Computer Science Engineering" : {  "from" : "1999" , "to" : "2002" , "grade" : "78%" , "university" : "Andhra PolyTechnic" , "Place" : "Kakinada, AP, India" }
+  }
   , "Experience" : {  }
   , "Projects"   : {  }
 
