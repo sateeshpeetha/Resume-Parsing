@@ -35,14 +35,14 @@ function expCtl($scope, $element, $attrs) {
    
 app.component('header', {
 
-  templateUrl: './templates/Candidate.tpl',
+  templateUrl: 'templates/Candidate.tpl',
   controller: headerCtl
 
 });
 
 app.component('summary', {
 
-  templateUrl: './templates/Summary.tpl',
+  templateUrl: 'templates/Summary.tpl',
   controller: SummaryCtl
 
 });
