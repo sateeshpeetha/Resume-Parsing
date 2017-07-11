@@ -13,9 +13,39 @@
 
 <body >
 	
-	<div align="center">
-	<resume sytle="aligh:center"> </resume>
+    <div align="center">
+    <div class="profile">
+	    <header>  </header>
+    <div class="prfcont">
+    
+        <ul class="tabs">
+		<li class="tab-link current" onclick="tabActivate(event, 'about')">Summary</li>
+		<li class="tab-link" onclick="tabActivate(event, 'skills')">Skills</li>
+		<li class="tab-link" onclick="tabActivate(event, 'exp')">Experience</li>
+		<li class="tab-link" onclick="tabActivate(event, 'projects')">Projects</li>
+	        <li class="tab-link" onclick="tabActivate(event, 'education')">Education</li>
+	</ul>
+
+	<div id="about" class="tab-content current">
+		<summary> </summary>
 	</div>
+	<div id="skills" class="tab-content">
+		<skills> </skills> 	
+	</div>
+	<div id="exp" class="tab-content">
+		<exp>  </exp> 
+	</div>
+	<div id="projects" class="tab-content">
+		<projects>  </projects>
+	</div>
+	<div id="education" class="tab-content">
+		<education> </education>
+	</div>    
+		
+    </div>
+
 	<script src="./parse.js"></script>
+	<script src="./util.js"></script>
+	    
 </body>
 </html>
