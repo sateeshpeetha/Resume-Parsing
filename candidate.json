@@ -1,6 +1,8 @@
 
+
 {
      "Name"  :   "Sateesh Peetha"
+  ,	"img"  : "https://avatars2.githubusercontent.com/u/1935748?v=3&s=120"
   ,   "Contact" : { "Email" : "sateesh.peetha@protonmail.com" , "Mobile" : "+91 9493303881" , "Skype" : "sateesh.peetha" }
   ,   "Title" :   "IT Professional with 8 plus years into Software Development, Testing, and Designing IT Systems and Web Applications" 
   , "Summary" : { "p1" : "A systematic, organised, hardworking and dedicated team player with an analytical bent of mind with good academic credentials. I am an ambitious professional with experience of 8+ years in Application Development and Support, Design & Analysis, Technical Analysis, Data Analysis, Quality Management, Technology Management and Team Management."
@@ -214,87 +216,4 @@
 ,
 "3" : {
 
-  "project"  : "FDW AFM"
-, "company"  : "Oracle Financial Services Software Pvt. Ltd."
-, "client"   : "CITI Bank"
-, "Role"     : "Database Developer"
-, "Country"  : "Singapore"
-, "City"     : "Singapore"
-, "fromMonth" : "Feb"
-, "fromYear"  : "2010"
-, "toMonth"   : "Dec"
-, "toYear"    : "2010"
-, "Environment" : "UNIX, Oracle 10g, Informatica"
-, "Synopsis"    : "The FDW team was responsible for development and support of various financial reports delivery for the APAC users at Citibank" 
-
-
-, "Responsibilities": 
-
-{
-	  "p1"   :   "Engaged in product development, performance tuning, and re-engineering"
-	, "p2"   :   "Participated in writing SQL queries and PL/SQL packages and Unit testing"
-	, "p3"   :   "Delivered FDW enhancements "
-	, "p4"   :   "Involved in requirement gathering meetings and documentation"
- 
-}
-}
-,
-"4" : {
-
-  "project"  : "Financial MIS Reporting"
-, "company"  : "BlackRock"
-, "client"   : "BlackRock Business Operations"
-, "Role"     : "Support and Business Analyst"
-, "Country"  : "Singapore"
-, "City"     : "Singapore"
-, "fromMonth" : "Dec"
-, "fromYear"  : "2010"
-, "toMonth"   : "Jun"
-, "toYear"    : "2012"
-, "Environment" : "Essbase, UNIX, Oracle 10g, Sybase, Informatica,Perl,Hyperion Financial Management"
-, "Synopsis"    : "Financial MIS team provides technology solutions to support data warehousing and calculations for the corporate, regulatory, and management reporting needs. The team is responsible for a suite of applications including calculation engines, web-based GUI tools and financial data publication, consolidation of various financial metrics in data warehouse"  
-, "Responsibilities" : 
-
-{
-	"p1"    :  "Engaged in day to day ETL steps to load Financial data warehouse"
-,	"p2"    :  "Provided technical support, and assisted in delivering new functionalities"
-,	"p3"    :  "Travelled to New York and New Jersey to get KT and meet onsite team "
-,	"p4"    :  "Documented business process and technical support steps, and created functional specification documents"
-,	"p5"    :  "Analyzed financial data cubes for issue resolution, and responded to user operational, application, and process related queries"
-,	"p6"    :  "Worked with Business Finance and Onsite teams in staging data for financial data mart and cubes preparation"
-,	"p7"    :  "Participated with the Global team in requirement gathering meetings and continuous improvement of user experience of production tools and processes"
- 
-}
-}
-,
-"5" : {
-
-  "project"  : "ALM Product and Environment Upgrade"
-, "company"  : "Optimum Solutions Singapore Pvt. Ltd."
-, "client"   : "Standard Chartered Bank"
-, "Role"     : "Test Analyst"	
-, "Country"  : "Singapore"
-, "City"     : "Singapore"
-, "fromMonth" : "Dec"
-, "fromYear"  : "2010"
-, "toMonth"   : "Jun"
-, "toYear"    : "2012"
-, "Environment" : "Oracle 10g/ 11g RAC, UNIX, Informatica"
-, "Synopsis"    : "Fermat ALM and Environment upgrade project involved QA activities and automating ETL development and testing,Fermat ALM version 5.x to 10.x upgrade testing,Oracle 10g non-RAC to Oracle 11g RAC environment upgrade testing,Basel III implementation ETL testing"  
-, "Responsibilities" : 
-
-{
-	"p1"   :  "Involved in designing and developing ETL modules for inbound and outbound feeds of Fermat ALM product"
-,	"p2"   :  "Engaged in leading and coordinating QA activities"
-,	"p3"   :  "Automated ETL testing automation utility"
-,	"p4"   :  "Carried out test planning and PMO status updates"
-,	"p5"   :  "Involved in work allocation and delivering QA and SQL test scripts"
- 
-}
-}
-		   }
-
-
-
-
-}
+  "project"  : "FDW AFM
