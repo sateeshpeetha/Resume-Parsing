@@ -1,69 +1,48 @@
 
 var app = angular.module('Rparse', []);
 
-
-function headerCtl($scope, $element, $attrs) {
-  //add code later
+function loadData($scope, $element, $attrs,$http) {
+ $http.get("candidate.json").then(function(response) {
+   $scope.candidate = response.data
+ },function(error) {
+  // failed to load
+   //redirect to another page.
+   window.href="error.html";
+ });
    
-}
-
-
-function SummaryCtl($scope, $element, $attrs) {
-  //add code later
-   
-}
-
-
-function educationCtl($scope, $element, $attrs) {
-  //add code later
-   
-}
-
-
-function skillsCtl($scope, $element, $attrs) {
-  //add code later
-   
-}
-
-
-function expCtl($scope, $element, $attrs) {
-  //add code later
-   
-}
-
-
+};
    
 app.component('header', {
 
   templateUrl: 'templates/Candidate.tpl',
-  controller: headerCtl
+  controller: loadData
 
 });
 
 app.component('summary', {
 
   templateUrl: 'templates/Summary.tpl',
-  controller: SummaryCtl
+  controller: loadData
 
 });
 
 app.component('education', {
 
   templateUrl: './templates/Education.tpl',
-  controller: educationCtl
+  controller: loadData
 
 });
 
 app.component('skills', {
 
   templateUrl: './templates/Skills.tpl',
-  controller: skillsCtl
+  controller: loadData
 
 });
 
 app.component('exp', {
 
   templateUrl: './templates/Exp.tpl',
-  controller: expCtl
+  controller: loadData
 
 });
