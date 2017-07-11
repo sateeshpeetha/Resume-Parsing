@@ -1,1 +1,42 @@
 
+.profile {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 100%;
+}
+
+.profile:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.profcont {
+    padding: 2px 16px;
+}
+ul.tabs{
+			margin: 0px;
+			padding: 0px;
+			list-style: none;
+		}
+ul.tabs li{
+			background: none;
+			color: #222;
+			display: inline-block;
+			padding: 10px 15px;
+			cursor: pointer;
+		}
+
+		ul.tabs li.current{
+			background: #ffffee;
+			color: #222;
+		}
+
+		.tab-content{
+			display: none;
+			background: #ffffee;
+			padding: 15px;
+            font-
+		}
+
+		.tab-content.current{
+			display: inherit;
+		}
