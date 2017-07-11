@@ -40,3 +40,13 @@ ul.tabs li{
 		.tab-content.current{
 			display: inherit;
 		}
+
+.name {
+  margin : 2px 1px;
+  
+  
+}
+.title{
+  margin : 5px 1px;
+  
+}
