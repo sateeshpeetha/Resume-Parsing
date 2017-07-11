@@ -1,3 +1,16 @@
-<h3> {{candidate.Name}} </h3>
-<h5> {{candidate.Title}} </h5>
-
+<table>
+<td>
+<img src="{{candidate.img}}"/>
+</td>
+<td>
+</td>
+<td>
+<h3 class="name"> {{candidate.Name}} </h3>
+<h5 class="title"> {{candidate.Title}} </h5>
+	<div ng-repeat="(type, contact) in candidate.Contact" >
+		
+      {{type}} : {{contact}}  
+  	
+	</div>
+</td>
+</table>
