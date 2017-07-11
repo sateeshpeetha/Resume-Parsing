@@ -2,7 +2,7 @@
 var app = angular.module('Rparse', []);
 
 function loadData($scope, $element, $attrs,$http) {
- $http.get("candidate.json").then(function(response) {
+ $http.get("candidatetest.json").then(function(response) {
    $scope.candidate = response.data
  },function(error) {
   // failed to load
