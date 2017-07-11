@@ -1,3 +1,3 @@
-<h3> {{candidate.name}} </h3>
-<h5> {{candidate.title}} </h5>
+<h3> {{candidate.Name}} </h3>
+<h5> {{candidate.Title}} </h5>
 
