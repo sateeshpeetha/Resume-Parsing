@@ -35,35 +35,35 @@ function expCtl($scope, $element, $attrs) {
    
 app.component('header', {
 
-  templateUrl: 'Candidate.tpl',
+  templateUrl: './templates/Candidate.tpl',
   controller: headerCtl
 
 });
 
 app.component('summary', {
 
-  templateUrl: 'Summary.tpl',
+  templateUrl: './templates/Summary.tpl',
   controller: SummaryCtl
 
 });
 
 app.component('education', {
 
-  templateUrl: 'Education.tpl',
+  templateUrl: './templates/Education.tpl',
   controller: educationCtl
 
 });
 
 app.component('skills', {
 
-  templateUrl: 'Skills.tpl',
+  templateUrl: './templates/Skills.tpl',
   controller: skillsCtl
 
 });
 
 app.component('exp', {
 
-  templateUrl: 'Exp.tpl',
+  templateUrl: './templates/Exp.tpl',
   controller: expCtl
 
 });
