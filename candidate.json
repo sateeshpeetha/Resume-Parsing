@@ -12,7 +12,129 @@
    "Bachelors of Technology in Computer Science" : { "from" : "2002" , "to" : "2005" , "grade" : "78%" , "university" : "V.R.S.E.C, Nagarjuna University" , "Place" : "Vijayawada, AP, India" } 
  , "Diploma in Computer Science Engineering" : {  "from" : "1999" , "to" : "2002" , "grade" : "78%" , "university" : "Andhra PolyTechnic" , "Place" : "Kakinada, AP, India" }
   }
-  , "Experience" : {  }
+  , "Experience" : { "1" : { "company" : "Synechron Technologies Pvt. Ltd."
+      , "title" : "Technology Lead"
+	  , "fromMonth" : "Dec"
+	  , "fromYear"  : "2014"
+	  , "toMonth"   : "Aug"
+	  , "toYear"    : "2015"
+	  , "country"   : "India"
+	  , "City"      : "Hyderabad"
+	   "Roles & Responsibilities" {
+    		   "p1"  :  "Fetching data from the database and conducting analysis from time to time to assess the progress of various projects."
+		   , "p2"  :  "Responsible for a data analysis and operational process management and complying to quality specifications. Collecting data and generating periodic reports and carrying out value added analysis of reports to facilitate strategy planning."
+		   , "p3"  :  "Carrying out detailed planning and scheduling to ensure seamless delivery of the project as per the delivery matrix."
+		   , "p4"  :  "Efficiently understanding business needs of the organization and rapid transition and deployment of solutions to align with the business plan to meet the set revenue budgets and customer growth."
+		   , "p5"  :  "Selecting appropriate technologies to meet these needs. Managing Strategy, Design, Transition, Operation and Continuous Service Improvement of the System. "
+		   , "p6"  :  "Evolving the system to meet changing business needs taking advantage of appropriate new technologies."
+		   , "p7"  :  "Managing the complete life cycle of projects including analysis of the client requirements, translating new ideas into clients’ solutions, requirements development, delivery, support, analysis and documentation."
+		   , "p8"  :  "Supervising staff as well as used knowledge of organizational development to lead teams toward reaching goals."
+		   , "p9"  :  "Providing guidance on the projects and its requirements also communicating to the clients over the technology, processes and applications while updating them on the regular project related developments. "
+		   , "p10"  :  "Interacting with project sponsors, project stakeholders and multiple business and technical teams to define and deliver project scope."
+}
+}
+,
+"2" : { "company" : "Optimum Solutions Singapore Pvt. Ltd."
+      , "title" : "Consultant"
+	  , "fromMonth" : "Sep"
+	  , "fromYear"  : "2013"
+	  , "toMonth"   : "Apr"
+	  , "toYear"    : "2014"
+	  , "country"   : "Singapore"
+	  , "City"      : "Singapore"
+	   "Roles & Responsibilities" {
+
+"p1" : "Managed project deliveries in a timely manner involving seamless onsite/ offshore coordination and transparent communication with all stakeholders at all phases."
+, "p2" : "Provided leadership to the technology team in development of standards, reported and monitored system for IT with the aim of providing high quality service and optimization of performance."
+,  "p3" : "Managed corporate IT initiatives while participated in planning, root cause analysis and implementation of IT Application and Infrastructure. "
+, "p4" : "Handled end to end delivery of product including migration, packaging and implementation."
+, "p5" : "Developed procedures, service standards and operational policies, planning & implementing effective control measures to achieve the desired goals."
+, "p6" : "Implemented transformational change provided significant business value with improvement to team management, strategic vision, enterprise architecture, program management, practice building and establishment of PMO."
+, "p7" : "Proficiently directed, defined and coordinated program issues, established objectives, developed requirements, planned schedules, estimated costs, reviewed proposals and monitored technical issues."
+, "p8" : "Evolved the system to meet changing business needs taking advantage of appropriate new technologies."
+, "p9" : "Supervised staff as well as used knowledge of organizational development to lead teams toward reaching goals."
+}
+}
+,
+"3" : { "company" : "JustClk.com"
+      , "title" : "Product Delivery and Architect"
+	  , "fromMonth" : "Aug"
+	  , "fromYear"  : "2012"
+	  , "toMonth"   : "Aug"
+	  , "toYear"    : "2013"
+	  , "country"   : "Singapore"
+	  , "City"      : "Singapore"
+	   "Roles & Responsibilities" {
+
+"p1"  : "Engaged in requirement gathering and project planning"
+, "p2"  : "Carried out Cloud vendor analysis, and identified appropriate service for project delivery"
+, "p3"  : "Setup web server infrastructure and associated NoSQL database services/ performance design"
+, "p4"  : "Created semi-dynamic CMS framework, data modeling, ETL Scripts, and Server side scripting"
+, "p5"  : "Contributed towards product promotion using SEO and Internet marketing."
+}
+}
+,
+"4" : { "company" : "Blackrock"
+      , "title" : "Associate"
+	  , "fromMonth" : "Dec"
+	  , "fromYear"  : "2010"
+	  , "toMonth"   : "Jul"
+	  , "toYear"    : "2012"
+	  , "country"   : "Singapore"
+	  , "City"      : "Singapore"
+	  "Roles & Responsibilities" {
+  "p1"   : "Provided technical support, and assisted in delivering new functionalities"
+, "p2"   : "Traveled New York and New Jersey to get KT and meet onsite team "
+, "p3"   : "Documented business process and technical support steps, and created functional specification documents"
+, "p4"   : "Analyzed financial data cubes for issue resolution, and responded to user operational, application, and process related queries"
+, "p5"   : "Worked with Business Finance and Onsite teams in staging data for financial data mart and cubes preparation"
+, "p6"   : "Participated with the Global team in requirement gathering meetings and continuous improvement of user experience of production tools and processes"
+
+} }
+,
+"5" : { "company" : "Oracle Financial Services  Software Pvt Ltd."
+      , "title" : "Consultant"
+	  , "fromMonth" : "Feb"
+	  , "fromYear"  : "2010"
+	  , "toMonth"   : "Dec"
+	  , "toYear"    : "2010"
+	  , "country"   : "Singapore"
+	  , "City"      : "Singapore"
+	"Roles & Responsibilities" {
+	    "p1"   :   "Engaged in product development, performance tuning, and re-engineering"
+	  , "p2"   :   "Participated in writing SQL queries and PL/SQL packages and Unit testing"
+	  , "p3"   :   "Delivered FDW enhancements"
+	  , "p4"   :   "Involved in requirement gathering meetings and documentation"
+  }
+}
+,
+"6" : { "company" : "Infosys Technologies Ltd."
+      , "title" : "Senior System Engineer"
+	  , "fromMonth" : "Jan"
+	  , "fromYear"  : "2007"
+	  , "toMonth"   : "Feb"
+	  , "toYear"    : "2010"
+	  , "country"   : "Singapore"
+	  , "City"      : "Singapore"
+	"Roles & Responsibilities" {
+		"p1"  :  "Engaged in incident management, problem management, and change/ release management"
+		, "p2"  :  "Participated in application enhancements and cost optimization"
+  }
+}
+,
+"7" : { "company" : "V.R.SIDDHARTHA ENGINEERING COLLEGE"
+      , "title" : "Lecturer"
+	  , "fromMonth" : "Jul"
+	  , "fromYear"  : "2005"
+	  , "toMonth"   : "Jul"
+	  , "toYear"    : "2006"
+	  , "country"   : "India"
+	  , "City"      : "Vijayawada"
+	"Roles & Responsibilities" {
+		"p1"  :  "Taught database Concepts, SQL, PL/SQL and Web Technologies"
+		
+}
+} }
   , "Projects"   : {  }
 
 
