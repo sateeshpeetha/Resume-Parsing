@@ -20,7 +20,7 @@
 	  , "toYear"    : "2015"
 	  , "country"   : "India"
 	  , "City"      : "Hyderabad"
-	   "Roles & Responsibilities" {
+	  , "Roles & Responsibilities" : {
     		   "p1"  :  "Fetching data from the database and conducting analysis from time to time to assess the progress of various projects."
 		   , "p2"  :  "Responsible for a data analysis and operational process management and complying to quality specifications. Collecting data and generating periodic reports and carrying out value added analysis of reports to facilitate strategy planning."
 		   , "p3"  :  "Carrying out detailed planning and scheduling to ensure seamless delivery of the project as per the delivery matrix."
@@ -42,7 +42,7 @@
 	  , "toYear"    : "2014"
 	  , "country"   : "Singapore"
 	  , "City"      : "Singapore"
-	   "Roles & Responsibilities" {
+	  , "Roles & Responsibilities" : {
 
 "p1" : "Managed project deliveries in a timely manner involving seamless onsite/ offshore coordination and transparent communication with all stakeholders at all phases."
 , "p2" : "Provided leadership to the technology team in development of standards, reported and monitored system for IT with the aim of providing high quality service and optimization of performance."
@@ -64,7 +64,7 @@
 	  , "toYear"    : "2013"
 	  , "country"   : "Singapore"
 	  , "City"      : "Singapore"
-	   "Roles & Responsibilities" {
+	  , "Roles & Responsibilities" : {
 
 "p1"  : "Engaged in requirement gathering and project planning"
 , "p2"  : "Carried out Cloud vendor analysis, and identified appropriate service for project delivery"
@@ -82,7 +82,7 @@
 	  , "toYear"    : "2012"
 	  , "country"   : "Singapore"
 	  , "City"      : "Singapore"
-	  "Roles & Responsibilities" {
+	  , "Roles & Responsibilities" : {
   "p1"   : "Provided technical support, and assisted in delivering new functionalities"
 , "p2"   : "Traveled New York and New Jersey to get KT and meet onsite team "
 , "p3"   : "Documented business process and technical support steps, and created functional specification documents"
@@ -100,7 +100,7 @@
 	  , "toYear"    : "2010"
 	  , "country"   : "Singapore"
 	  , "City"      : "Singapore"
-	"Roles & Responsibilities" {
+	, "Roles & Responsibilities" : {
 	    "p1"   :   "Engaged in product development, performance tuning, and re-engineering"
 	  , "p2"   :   "Participated in writing SQL queries and PL/SQL packages and Unit testing"
 	  , "p3"   :   "Delivered FDW enhancements"
@@ -116,7 +116,7 @@
 	  , "toYear"    : "2010"
 	  , "country"   : "Singapore"
 	  , "City"      : "Singapore"
-	"Roles & Responsibilities" {
+	, "Roles & Responsibilities" : {
 		"p1"  :  "Engaged in incident management, problem management, and change/ release management"
 		, "p2"  :  "Participated in application enhancements and cost optimization"
   }
@@ -130,7 +130,7 @@
 	  , "toYear"    : "2006"
 	  , "country"   : "India"
 	  , "City"      : "Vijayawada"
-	"Roles & Responsibilities" {
+	, "Roles & Responsibilities" : {
 		"p1"  :  "Taught database Concepts, SQL, PL/SQL and Web Technologies"
 		
 }
