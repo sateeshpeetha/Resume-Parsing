@@ -135,7 +135,161 @@
 		
 }
 } }
-  , "Projects"   : {  }
+  , "Projects"   : {  "0" : {
+
+  "project"  : "JustClk.com"
+, "company"  : "Freelancing"
+, "client"   : "Freelancing"
+, "Role"     : "Architect and Developer"
+, "Country"  : "Singapore"
+, "City"     : "Singapore"
+, "fromMonth" : "Aug"
+, "fromYear"  : "2012"
+, "toMonth"   : "Jul"
+, "toYear"    : "2014"
+, "Environment" : "Windows Azure, CentOS, Node.JS, NoSQL, Informatica , bootstrap, jquery, CDN"
+, "Synopsis"    : "The strategic aim of the project was to provide mass free classified service across India utilizing Cloud computing infrastructure, Software as a Service, and open source technologies such as Node.JS and jQuery."
+,
+"Responsibilities" : 
+
+{
+	"p1"   :  "Engaged in requirement gathering and project planning"
+	, "p2"   :  "Carried out Cloud vendor analysis, and identified appropriate service for project delivery"
+	, "p3"   :  "Setup web server infrastructure and associated NoSQL database services/ performance design"
+	, "p4"   :  "Created semi-dynamic CMS framework, data modeling, and server scripting"
+	, "p5"   :  "Contributed towards product promotion using SEO and Internet marketing"
+ 
+}
+}
+,
+
+"1" : {
+
+  "project"  : "Data Mart Reengineering and Development"
+, "company"  : "Infosys"
+, "client"   : "Fidelity Management & Research"
+, "Role"     : "Developer"
+, "Country"  : "India"
+, "City"     : "Bangalore"
+, "fromMonth" : "Apr"
+, "fromYear"  : "2007"
+, "toMonth"   : "Apr"
+, "toYear"    : "2008"
+, "Environment" : "UNIX, Sybase, Oracle 10g, Informatica, AutoSys"
+, "Synopsis"    : "FIMT team is responsible for technology support of fixed income business of Fidelity Investments. STORE program is created to re-engineer data mart from Sybase to Oracle database and mitigate the risks/ challenges with legacy systems designed in Sybase"
+, "Responsibilities" : 
+
+{
+  "p1"   :   "Engaged in module development and delivery of MuniView data mart"
+, "p2"   :   "Developed Informatica mappings, Oracle packages, AutoSys batches, and Perl scripts"
+, "p3"   :   "Participated in QA, UAT, and Production implementation"
+, "p4"   :   "Performed UNIT testing, code reviews, and documentation"
+ 
+}
+}
+,
+"2" : {
+
+  "project"  : "Legal & Complaince Global and Swiss Applications support"
+, "company"  : "Infosys"
+, "client"   : "UBS"
+, "Role"     : "Level 2 Application Support"
+, "Country"  : "Singapore"
+, "City"     : "Singapore"
+, "fromMonth" : "Jul"
+, "fromYear"  : "2008"
+, "toMonth"   : "Feb"
+, "toYear"    : "2010"
+, "Environment" : "UNIX, Solaris, Windows NT, Oracle, Sybase, MS SQL Server, Informatica, AutoSys, Perl Scripts"
+, "Synopsis"    : "Legal and Compliance Technology team is responsible for supporting Global and Swiss applications to cater regulatory needs of the bank. LC suite of applications include middle office and back office trade data mart to monitor employee and business trades, trade restrictions, classification, and protection of confidential information to prevent financial fraud, insider trading, and compliance policy framework."
+, "Responsibilities" : 
+
+{
+  "p1"   :   "Engaged in incident management, problem management, and change/ release management"
+, "p2"   :   "Participated in application enhancements and cost optimization"
+, "p3"   :   "Automation, Application enhancements and bug fixes"
+ 
+}
+}
+,
+"3" : {
+
+  "project"  : "FDW AFM"
+, "company"  : "Oracle Financial Services Software Pvt. Ltd."
+, "client"   : "CITI Bank"
+, "Country"  : "Singapore"
+, "City"     : "Singapore"
+, "fromMonth" : "Feb"
+, "fromYear"  : "2010"
+, "toMonth"   : "Dec"
+, "toYear"    : "2010"
+, "Environment" : "UNIX, Oracle 10g, Informatica"
+, "Synopsis"    : "The FDW team was responsible for development and support of various financial reports delivery for the APAC users at Citibank" 
+
+
+, "Responsibilities": 
+
+{
+	  "p1"   :   "Engaged in product development, performance tuning, and re-engineering"
+	, "p2"   :   "Participated in writing SQL queries and PL/SQL packages and Unit testing"
+	, "p3"   :   "Delivered FDW enhancements "
+	, "p4"   :   "Involved in requirement gathering meetings and documentation"
+ 
+}
+}
+,
+"4" : {
+
+  "project"  : "Financial MIS Reporting"
+, "company"  : "BlackRock"
+, "client"   : "BlackRock Business Operations"
+, "Country"  : "Singapore"
+, "City"     : "Singapore"
+, "fromMonth" : "Dec"
+, "fromYear"  : "2010"
+, "toMonth"   : "Jun"
+, "toYear"    : "2012"
+, "Environment" : "Essbase, UNIX, Oracle 10g, Sybase, Informatica,Perl,Hyperion Financial Management"
+, "Synopsis"    : "Financial MIS team provides technology solutions to support data warehousing and calculations for the corporate, regulatory, and management reporting needs. The team is responsible for a suite of applications including calculation engines, web-based GUI tools and financial data publication, consolidation of various financial metrics in data warehouse"  
+, "Responsibilities" : 
+
+{
+	"p1"    :  "Engaged in day to day ETL steps to load Financial data warehouse"
+,	"p2"    :  "Provided technical support, and assisted in delivering new functionalities"
+,	"p3"    :  "Travelled to New York and New Jersey to get KT and meet onsite team "
+,	"p4"    :  "Documented business process and technical support steps, and created functional specification documents"
+,	"p5"    :  "Analyzed financial data cubes for issue resolution, and responded to user operational, application, and process related queries"
+,	"p6"    :  "Worked with Business Finance and Onsite teams in staging data for financial data mart and cubes preparation"
+,	"p7"    :  "Participated with the Global team in requirement gathering meetings and continuous improvement of user experience of production tools and processes"
+ 
+}
+}
+,
+"5" : {
+
+  "project"  : "ALM Product and Environment Upgrade"
+, "company"  : "Optimum Solutions Singapore Pvt. Ltd."
+, "client"   : "Standard Chartered Bank"
+, "Country"  : "Singapore"
+, "City"     : "Singapore"
+, "fromMonth" : "Dec"
+, "fromYear"  : "2010"
+, "toMonth"   : "Jun"
+, "toYear"    : "2012"
+, "Environment" : "Oracle 10g/ 11g RAC, UNIX, Informatica"
+, "Synopsis"    : "Fermat ALM and Environment upgrade project involved QA activities and automating ETL development and testing,Fermat ALM version 5.x to 10.x upgrade testing,Oracle 10g non-RAC to Oracle 11g RAC environment upgrade testing,Basel III implementation ETL testing"  
+, "Responsibilities" : 
+
+{
+	"p1"   :  "Involved in designing and developing ETL modules for inbound and outbound feeds of Fermat ALM product"
+,	"p2"   :  "Engaged in leading and coordinating QA activities"
+,	"p3"   :  "Automated ETL testing automation utility"
+,	"p4"   :  "Carried out test planning and PMO status updates"
+,	"p5"   :  "Involved in work allocation and delivering QA and SQL test scripts"
+ 
+}
+}
+		   }
 
 
 
