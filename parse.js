@@ -47,3 +47,10 @@ app.component('exp', {
   controller: loadData
 
 });
+
+app.component('projects', {
+
+  templateUrl: 'templates/Projects.tpl',
+  controller: loadData
+
+});
