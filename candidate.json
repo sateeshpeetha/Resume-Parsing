@@ -8,6 +8,67 @@
                  , "p2" : "Multi-functional expert, technically inclined and highly empowered IT professional. Expertise in all phases of Application Development Life Cycle with concentration on Requirements Analysis & Development, Design Analysis, Development Planning, Tools and Technologies selection, Code/Design Reviews, SQA, Unit Testing, User Interface Design and Delivery."
                  , "p3" : "Good ability to utilize, extract, transform and load (ETL) tools to maintain, design, develop, test, implement and document data warehouse solutions. Hands on experience in using PowerPivot and Tableau."
                 }
+                
+  , "KeyAreas" : {
+    "p1"   :  "Core strengths in functional analysis and requirements gathering, Front End and BackEnd scripting,ETL (Informatica, Perl scripting, Python,Shell), Oracle database, SQL queries, PL/SQL packages, production support, incident and problem management, performance tuning, JavaScript, XML, JSON, UNIX, Shell Scripting, HTML, NodeJS, BackboneJS, AngularJS, jQuery, Essbase, c,c++,highly scalable web architecture using NodeJS"
+,"p2"   :  "Good knowledge of vendor products such as Fermat ALM and Aladdin."
+, "p3"   :  "Instrumental in finalization of project requirements and resource planning and playing a key role in strategic planning to assure achievement of agreed to functional and business objectives."
+, "p4"   :  "Provide leadership to the technology team in development of standards, reporting and monitoring system for IT"
+  }           
+  
+  , "Skills" : [ 
+    
+    "Data Warehousing"
+, "Testing"
+, "JavaScript"
+, "Python"
+,"AngularJS"
+, "HTML"
+, "Software Development"
+, "Linux"
+, "XML"
+, "Production Support"
+, "Software Development Life Cycle (SDLC)"
+, "Oracle Database"
+, "PL/SQL"
+, "Manual Testing"
+, "Functional Analysis"
+, "Business Analysis"
+, "Data Mining"
+, "Data Profiling"
+, "Business Intelligence"
+, "JIRA"
+, "Toad"
+, "Unit Testing"
+, "SIT"
+, "ETL Tools"
+, "ETL Testing"
+, "Extract, Transform, Load (ETL)"
+, "Requirements Gathering"
+, "Documentation"
+, "Microsoft Office"
+, "Microsoft Excel"
+, "Microsoft PowerPoint"
+, "PowerPivot"
+, "Test Automation"
+, "JSON"
+, "Node.js"
+, "Unix"
+, "Incident Management"
+, "Problem Management"
+, "Root Cause Analysis"
+, "ITIL"
+, "Shell Scripting"
+, "Perl"
+, "Agile Methodologies"
+, "Web Services"
+, "R"
+, "AngularJS"
+, "Python"
+, "Machine Learning"
+, "Apache Spark"
+    
+]
   
   , "Education"  : {
    "Bachelors of Technology in Computer Science" : { "from" : "2002" , "to" : "2005" , "grade" : "78%" , "university" : "V.R.S.E.C, Nagarjuna University" , "Place" : "Vijayawada, AP, India" } 
