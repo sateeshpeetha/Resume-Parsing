@@ -28,21 +28,21 @@ app.component('summary', {
 
 app.component('education', {
 
-  templateUrl: './templates/Education.tpl',
+  templateUrl: 'templates/Education.tpl',
   controller: loadData
 
 });
 
 app.component('skills', {
 
-  templateUrl: './templates/Skills.tpl',
+  templateUrl: 'templates/Skills.tpl',
   controller: loadData
 
 });
 
 app.component('exp', {
 
-  templateUrl: './templates/Exp.tpl',
+  templateUrl: 'templates/Exp.tpl',
   controller: loadData
 
 });
