@@ -7,7 +7,8 @@ function loadData($scope, $element, $attrs,$http) {
  },function(error) {
   // failed to load
    //redirect to another page.
-   window.location.href="error.html";
+  // commenting error redirect for testing purpose
+  // window.location.href="error.html";
  });
    
 };
