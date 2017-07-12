@@ -16,13 +16,12 @@
 , "p4"   :  "Provide leadership to the technology team in development of standards, reporting and monitoring system for IT"
   }           
   
-  , "Skills" : [ 
+  , "Skills" :  , "Skills" : [ 
     
     "Data Warehousing"
 , "Testing"
 , "JavaScript"
 , "Python"
-,"AngularJS"
 , "HTML"
 , "Software Development"
 , "Linux"
@@ -64,7 +63,6 @@
 , "Web Services"
 , "R"
 , "AngularJS"
-, "Python"
 , "Machine Learning"
 , "Apache Spark"
     
