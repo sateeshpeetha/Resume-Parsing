@@ -1,16 +1,30 @@
+/* Put your css in here */
+
 
 .profile {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transition: 0.3s;
-    width: 100%;
+    width: 90%;
 }
 
 .profile:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
-
+.name {
+  margin : 2px 1px;
+  
+  
+}
+.title{
+  margin : 5px 1px;
+  
+}
 .profcont {
-    padding: 2px 16px;
+    padding: 16px 16px;
+}
+ul {
+  
+  list-style-type :none;
 }
 ul.tabs{
 			margin: 0px;
@@ -32,21 +46,29 @@ ul.tabs li{
 
 		.tab-content{
 			display: none;
-			background: #ffffee;
+			background: #ffffff;
 			padding: 15px;
-            font-
+  
 		}
 
 		.tab-content.current{
 			display: inherit;
 		}
-
-.name {
-  margin : 2px 1px;
-  
-  
-}
-.title{
-  margin : 5px 1px;
-  
-}
+		
+	.SkillSearchContainer {
+	    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	    text-align: left;
+		
+	}
+	.skillSearchInput {
+	    padding:8px;
+	    
+	    text-align: center;
+	}  
+	
+  .skills {
+    margin: 10px 10px;
+    padding : 1px 1px;
+    
+  }	
+	
