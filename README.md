@@ -15,9 +15,8 @@ Just include the library and add section tag to render portion of the profile.
 
 For example, just add tag `<summary>` anywhere in page to display Candidate Name, title, and Contact.
 
-<iframe src="https://sateeshpeetha.github.io/Resume-Parsing/">
-
-</iframe>
+<img src="https://sateeshpeetha.github.io/Resume-Parsing/summary.jpg">
+</img>
 
 JSON Resume format Overview:
 
