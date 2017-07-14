@@ -11,6 +11,14 @@ AngularJS javascript library. using CDN hosted version for this demo.
 
 Checkout the live Demo Here: https://sateeshpeetha.github.io/Resume-Parsing/
 
+Just include the library and add section tag to render portion of the profile.
+
+For example, just add tag `<summary>` anywhere in page to display Candidate Name, title, and Contact.
+
+<iframe src="https://sateeshpeetha.github.io/Resume-Parsing/">
+
+</iframe>
+
 JSON Resume format Overview:
 
 Check the JSON profile used for this demo here: https://sateeshpeetha.github.io/Resume-Parsing/candidate.json
