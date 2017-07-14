@@ -19,7 +19,7 @@ No validation added to check mandatory items in profile file yet.
 
 JSON Format Screenshots.
 
-<img src="https://sateeshpeetha.github.io/Resume-Parsing/JSONformat1.jpg">
+<img src="https://sateeshpeetha.github.io/Resume-Parsing/JSONformat1.tiff">
 </img>
 
 Ass you can see, just adding <summary> tab to your page will render the candidate header information.
