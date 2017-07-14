@@ -9,5 +9,22 @@ JSON Resume format Overview:
 
 
 
+<link rel="stylesheet" href="./style.css">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+
+
+
+
+
+Ass you can see, just adding <summary> tab to your page will render the candidate header information.
+
+<summary> </summary>
+
+
+<script src="./parse.js"></script>
+	<script src="./util.js"></script>
+	    
+
+
 
 
