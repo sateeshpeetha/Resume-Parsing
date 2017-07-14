@@ -2,13 +2,20 @@
 var app = angular.module('Rparse', []);
 
 function loadData($scope, $element, $attrs,$http) {
+ 
+ $scope.loading = true;
+ $scope.ready  = false;
+ 
  $http.get("candidate.json").then(function(response) {
    $scope.candidate = response.data
+  $scope.ready  = true;
+  $scope.loading = false;
+  
  },function(error) {
   // failed to load
    //redirect to another page.
   // commenting error redirect for testing purpose
-  // window.location.href="error.html";
+   window.location.href="error.html";
  });
    
 };
