@@ -1,4 +1,8 @@
+<div ng-show="loading">
+<h1> Please wait while loading candidate profile </h1>
+</div>
 
+<div ng-show="ready">
 <ol style="text-align:left;">
 <div ng-repeat="(para, point) in candidate.Summary" >
 		
@@ -17,3 +21,4 @@
   	
 	</div>
 </ol>
+<div>
