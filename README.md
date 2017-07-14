@@ -50,9 +50,7 @@ No validation added to check mandatory items in profile file yet.
 <img src="https://sateeshpeetha.github.io/Resume-Parsing/JSONFormat6.jpg">
 </img>
 
-Ass you can see, just adding <summary> tab to your page will render the candidate header information.
 
-<summary> </summary>
 
 
 	    
