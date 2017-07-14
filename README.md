@@ -17,9 +17,30 @@ Check the JSON profile used for this demo here: https://sateeshpeetha.github.io/
 No validation added to check mandatory items in profile file yet. 
 
 
-JSON Format Screenshots.
+## JSON Format Screenshots.
 
-<img src="https://sateeshpeetha.github.io/Resume-Parsing/JSONformat1.tiff">
+### JSON File high level format screenshot below.
+
+<img src="https://sateeshpeetha.github.io/Resume-Parsing/JSONFormat1.jpg">
+</img>
+
+### Candidate contact format
+
+<img src="https://sateeshpeetha.github.io/Resume-Parsing/JSONFormat2.jpg">
+</img>
+
+<img src="https://sateeshpeetha.github.io/Resume-Parsing/JSONFormat3.jpg">
+</img>
+
+<img src="https://sateeshpeetha.github.io/Resume-Parsing/JSONFormat4.jpg">
+</img>
+
+
+<img src="https://sateeshpeetha.github.io/Resume-Parsing/JSONFormat5.jpg">
+</img>
+
+
+<img src="https://sateeshpeetha.github.io/Resume-Parsing/JSONFormat6.jpg">
 </img>
 
 Ass you can see, just adding <summary> tab to your page will render the candidate header information.
